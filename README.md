@@ -48,7 +48,7 @@ After installing the application on the mobile device of the employee, the user 
 ## Installation
 * To clone the repository use the below link:
 ```
-[https://github.com/niyotham/Refund-by-Location-Smart-Contract](https://github.com/aronsinkie/Web3-Refund-by-Location-Smart-Contract.git
+[https://github.com/aronsinkie/Web3-Refund-by-Location-Smart-Contract.git]
 ``` 
 ## To run the repository first run the following:
 
