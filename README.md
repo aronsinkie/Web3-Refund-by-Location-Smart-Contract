@@ -48,15 +48,15 @@ After installing the application on the mobile device of the employee, the user 
 ## Installation
 * To clone the repository use the below link:
 ```
-https://github.com/niyotham/Refund-by-Location-Smart-Contract
+[https://github.com/niyotham/Refund-by-Location-Smart-Contract](https://github.com/aronsinkie/Web3-Refund-by-Location-Smart-Contract.git
 ``` 
 ## To run the repository first run the following:
 
 
 ## Flutter App Installation guide
 ### IOS
-``` git clone https://github.com/Abel-Blue/refund-smart-contract.git
-cd refund-smart-contract
+``` git clone https://github.com/aronsinkie/Web3-Refund-by-Location-Smart-Contract.git
+cd Web3-Refund-by-Location-Smart-Contract
 cd flutterdapp
 flutter pub get
 flutter build ios --no-sound-null-safety
@@ -64,9 +64,9 @@ flutter install-local --platform ios
 
 ``` 
 ### Android
-```
-git clone https://github.com/Abel-Blue/refund-smart-contract.git
-cd refund-smart-contract
+```https://github.com/aronsinkie/Web3-Refund-by-Location-Smart-Contract.git
+git clone 
+cd Web3-Refund-by-Location-Smart-Contract
 cd flutterdapp
 flutter pub get
 flutter build apk --no-sound-null-safety
@@ -74,9 +74,9 @@ flutter install
 ``` 
 ### Run flutter App on debug mode
 First connect your device using USB cable.
-```
-git clone https://github.com/Abel-Blue/refund-smart-contract.git
-cd refund-smart-contract
+```https://github.com/aronsinkie/Web3-Refund-by-Location-Smart-Contract.git
+git clone 
+cd Web3-Refund-by-Location-Smart-Contract
 cd flutterdapp
 flutter pub get
 flutter run --no-sound-null-safety 
